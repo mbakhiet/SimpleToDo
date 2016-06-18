@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had trouble downloading Android Studio, using git, and creating my gif. As well as understanding how the various parts of the app interacted.
+I had trouble downloading Android Studio, using git, and creating my gif. As well as understanding how the various parts of the app interacted. I also meant to email this but accidentally left it as a draft, sorry for my mistake.
 
 ## License
 
